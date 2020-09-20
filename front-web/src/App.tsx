@@ -1,5 +1,4 @@
 import React from 'react';
-import { Router } from 'react-router-dom';
 import './App.css';
 import Routers from './Routes';
 
@@ -8,7 +7,6 @@ function App() {
     <div>
       <Routers />
     </div>
-
   );
 }
 
